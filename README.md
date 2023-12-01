@@ -12,7 +12,7 @@
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=RED)](https://laravel.com)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=RED)](https://python.org)
-[![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp&logoColor=RED)]
+[![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp&logoColor=RED)]()
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
