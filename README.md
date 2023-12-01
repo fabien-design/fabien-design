@@ -15,20 +15,20 @@
 [![C#](https://img.shields.io/badge/-Csharp-000?style=for-the-badge&logo=Csharp&logoColor=A47BDE)]()
 [![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=#36B7F0)]()
 
-[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
-[![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+[![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&&logo=Git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 
 
 ## En apprentissage
 
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=FFF)](https://react.dev)
-[![Vue.js](https://img.shields.io/badge/-Vuejs-000?&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
+[![Symfony](https://img.shields.io/badge/-Symfony-000?style=for-the-badge&&logo=Symfony&logoColor=FFF)](https://symfony.com)
+[![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React&logoColor=FFF)](https://react.dev)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 
 ## Quelques stats
 
