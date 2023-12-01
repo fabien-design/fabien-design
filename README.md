@@ -11,7 +11,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=RED)](https://laravel.com)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=RED)](https://python.org)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=ffdd54)](https://python.org)
 [![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp&logoColor=RED)]()
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
@@ -23,9 +23,11 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 
 
-## En apprentissage / perfectionnement
+## En apprentissage
 
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
+[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=FFF)](https://react.dev)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-000?&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 
 ## Quelques stats
 
