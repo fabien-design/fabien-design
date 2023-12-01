@@ -10,7 +10,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-[![Laravel](https://img.shields.io/badge/-Laravel-FFF?&logo=Laravel&logoColor=RED)](https://laravel.com)
+[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=RED)](https://laravel.com)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
