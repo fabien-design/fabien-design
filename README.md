@@ -13,6 +13,7 @@
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=RED)](https://laravel.com)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=ffdd54)](https://python.org)
 [![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp&logoColor=A47BDE)]()
+[![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
