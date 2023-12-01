@@ -35,4 +35,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabien-design&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabien-design&locale=fr&background=0d1117&ring=52BFEA&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabien-design&locale=fr&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA&show_icons=true&hide_border=true&layout=compact)
