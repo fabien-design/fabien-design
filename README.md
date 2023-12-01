@@ -1,9 +1,11 @@
 # Bienvenue sur mon profil ! 👋
 
-- 📫 Contactez-moi sur **fabien.rozier@lyceestvincent.fr**
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://frozier.lyceestvincent.fr/)
-
 [![Fabien-Design](https://github-profile-trophy.vercel.app/?username=fabien-design&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contactez-moi ! 
+
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://frozier.lyceestvincent.fr/)
+[![Outlook](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=0D68BB)](fabien.rozier@lyceestvincent.fr)
 
 ## Languages et outils
 
