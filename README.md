@@ -2,7 +2,7 @@
 
 - 📫 Contactez-moi sur **fabien.rozier@lyceestvincent.fr**
 
-[![Dreeckan](https://github-profile-trophy.vercel.app/?username=fabien-design&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+[![Fabien-Design](https://github-profile-trophy.vercel.app/?username=fabien-design&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages et outils
 
@@ -12,7 +12,7 @@
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=RED)](https://laravel.com)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=ffdd54)](https://python.org)
-[![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp&logoColor=RED)]()
+[![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp&logoColor=A47BDE)]()
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
