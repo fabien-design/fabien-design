@@ -6,8 +6,9 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://frozier.lyceestvincent.fr/)
 <a href="mailto:fabien.rozier@lyceestvincent.fr">
-[![Outlook](https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0D68BB)]()
+  [![Outlook](https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0D68BB)]()
 </a>
+
 
 ## Languages et outils
 
