@@ -16,6 +16,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![Symfony](https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=Laravel&logoColor=RED)](https://laravel.com)
+[![Symfony](https://img.shields.io/badge/-Symfony-000?style=for-the-badge&&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=ffdd54)](https://python.org)
 [![C#](https://img.shields.io/badge/-Csharp-000?style=for-the-badge&logo=Csharp&logoColor=A47BDE)]()
 [![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=#36B7F0)]()
@@ -31,7 +32,6 @@
 
 ## En apprentissage
 
-[![Symfony](https://img.shields.io/badge/-Symfony-000?style=for-the-badge&&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React&logoColor=FFF)](https://react.dev)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 
