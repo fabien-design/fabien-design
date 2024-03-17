@@ -19,7 +19,7 @@
 [![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=ffdd54)](https://python.org)
 [![C#](https://img.shields.io/badge/-Csharp-000?style=for-the-badge&logo=Csharp&logoColor=A47BDE)]()
 [![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=#36B7F0)](https://tailwindcss.com)
-[![Docker](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=Docker&logoColor=BLUE)](https://www.docker.com)
+[![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=BLUE)](https://www.docker.com)
 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
