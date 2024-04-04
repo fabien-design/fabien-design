@@ -31,7 +31,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 
 
-https://learn.microsoft.com/api/achievements/share/fr-fr/FabienROZIER-3654/UXWKRGG3?sharingId=7052CDD058C66635
+[![Azure Machine Learning](https://learn.microsoft.com/fr-fr/training/achievements/explore-azure-machine-learning-workspace-resources-assets.svg)](https://learn.microsoft.com/api/achievements/share/fr-fr/FabienROZIER-3654/UXWKRGG3?sharingId=7052CDD058C66635)
 ## En apprentissage
 
 [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React&logoColor=FFF)](https://react.dev)
