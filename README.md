@@ -33,7 +33,7 @@
 
 
 ## Azure Machine Learning Modules
-[![Azure Machine Learning](<img src="https://learn.microsoft.com/fr-fr/training/achievements/explore-azure-machine-learning-workspace-resources-assets.svg" width="48">)](https://learn.microsoft.com/api/achievements/share/fr-fr/FabienROZIER-3654/UXWKRGG3?sharingId=7052CDD058C66635)
+[![Azure Machine Learning](https://learn.microsoft.com/fr-fr/training/achievements/explore-azure-machine-learning-workspace-resources-assets.svg)| height = 48px](https://learn.microsoft.com/api/achievements/share/fr-fr/FabienROZIER-3654/UXWKRGG3?sharingId=7052CDD058C66635)
 
 
 
