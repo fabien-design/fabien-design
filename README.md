@@ -33,9 +33,10 @@
 
 
 ## Azure Machine Learning Modules
-[![Azure Machine Learning | height = 48px](https://learn.microsoft.com/fr-fr/training/achievements/explore-azure-machine-learning-workspace-resources-assets.svg)](https://learn.microsoft.com/api/achievements/share/fr-fr/FabienROZIER-3654/UXWKRGG3?sharingId=7052CDD058C66635)
-[![Azure Machine Learning | height = 48px](https://learn.microsoft.com/fr-fr/training/achievements/explore-developer-tools-for-workspace-interaction.svg)](https://learn.microsoft.com/fr-fr/users/fabienrozier-3654/achievements/hrfg3xq8)
-
+[![Module 1 | height = 48px](https://learn.microsoft.com/fr-fr/training/achievements/explore-azure-machine-learning-workspace-resources-assets.svg)](https://learn.microsoft.com/api/achievements/share/fr-fr/FabienROZIER-3654/UXWKRGG3?sharingId=7052CDD058C66635)
+[![Module 2 | height = 48px](https://learn.microsoft.com/fr-fr/training/achievements/explore-developer-tools-for-workspace-interaction.svg)](https://learn.microsoft.com/fr-fr/users/fabienrozier-3654/achievements/hrfg3xq8)
+[![Module 3 | height = 48px](https://learn.microsoft.com/fr-fr/training/achievements/make-data-available-azure-machine-learning.svg)](https://learn.microsoft.com/api/achievements/share/fr-fr/FabienROZIER-3654/XV7HBF9Y?sharingId=7052CDD058C66635)
+[![Module 3 | height = 48px](https://learn.microsoft.com/fr-fr/training/achievements/work-data-azure-machine-learning.svg)](https://learn.microsoft.com/api/achievements/share/fr-fr/FabienROZIER-3654/45JV3PAK?sharingId=7052CDD058C66635)
 
 ## En apprentissage
 
