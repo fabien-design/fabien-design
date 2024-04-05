@@ -34,7 +34,7 @@
 
 ## Azure Machine Learning Modules
 
-<div style="display:flex; gap: 1rem;" >
+<div style="display:flex;" >
   <a href="https://learn.microsoft.com/api/achievements/share/fr-fr/FabienROZIER-3654/UXWKRGG3?sharingId=7052CDD058C66635"><img src="https://learn.microsoft.com/fr-fr/training/achievements/explore-azure-machine-learning-workspace-resources-assets.svg" height="48" alt="Module 1"></a>
   
   <a href="https://learn.microsoft.com/fr-fr/users/fabienrozier-3654/achievements/hrfg3xq8"><img src="https://learn.microsoft.com/fr-fr/training/achievements/explore-developer-tools-for-workspace-interaction.svg" height="48" alt="Module 2"></a>
