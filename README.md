@@ -33,6 +33,7 @@
 ## En apprentissage
 
 [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React&logoColor=FFF)](https://react.dev)
+[![React](https://img.shields.io/badge/-NextJs-000?style=for-the-badge&&logo=Next&logoColor=FFF)](https://nextjs.org)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 
 
