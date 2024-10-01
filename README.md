@@ -32,8 +32,9 @@
 
 ## En apprentissage
 
-[![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React&logoColor=FFF)](https://react.dev)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&&logo=nextdotjs&logoColor=FFF)](https://nextjs.org)
+[![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&&logo=drupal&logoColor=FFF)](https://www.drupal.org/)
+[![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React&logoColor=FFF)](https://react.dev)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 
 
