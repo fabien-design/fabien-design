@@ -54,6 +54,6 @@
 
 ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=fabien-design&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabien-design&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabien-design&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)]()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabien-design&locale=fr&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA&show_icons=true&hide_border=true&layout=compact)
