@@ -18,6 +18,7 @@
 [![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=Laravel&logoColor=RED)](https://laravel.com)
 [![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=ffdd54)](https://python.org)
 [![C#](https://img.shields.io/badge/-Csharp-000?style=for-the-badge&logo=Csharp&logoColor=A47BDE)]()
+[![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&&logo=drupal&logoColor=FFF)](https://www.drupal.org/)
 [![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=#36B7F0)](https://tailwindcss.com)
 [![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=BLUE)](https://www.docker.com)
 
@@ -33,7 +34,6 @@
 ## En apprentissage
 
 [![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&&logo=nextdotjs&logoColor=FFF)](https://nextjs.org)
-[![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&&logo=drupal&logoColor=FFF)](https://www.drupal.org/)
 [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React&logoColor=FFF)](https://react.dev)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 
