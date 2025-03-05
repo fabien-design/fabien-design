@@ -36,6 +36,7 @@
 [![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&&logo=nextdotjs&logoColor=FFF)](https://nextjs.org)
 [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React&logoColor=FFF)](https://react.dev)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
+[![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&logoColor=5fc8f7)](https://flutter.dev/)
 
 
 ## Azure Machine Learning Modules
@@ -53,7 +54,5 @@
 ## Quelques stats
 
 ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=fabien-design&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabien-design&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)]()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabien-design&locale=fr&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA&show_icons=true&hide_border=true&layout=compact)
