@@ -4,6 +4,7 @@
 
 ## Contactez-moi ! 
 
+[![CV](https://img.shields.io/badge/CV-000?style=for-the-badge&logo=resume&logoColor=FFF)](https://frozier.com/assets/Fabien_Rozier_CV.pdf)
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://frozier.lyceestvincent.fr/)
 [![Outlook](https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0D68BB)](mailto:fabien.rozier@lyceestvincent.fr)
 
