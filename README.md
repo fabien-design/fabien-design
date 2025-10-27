@@ -1,6 +1,5 @@
 # Bienvenue sur mon profil ! 👋
-
-[![Fabien-Design](https://github-profile-trophy.vercel.app/?username=fabien-design&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+[![Fabien-Design](https://github-profile-trophy.vercel.app/?username=fabien-design&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contactez-moi ! 
 
