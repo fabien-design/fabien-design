@@ -22,8 +22,8 @@
 [![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=#36B7F0)](https://tailwindcss.com)
 [![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=BLUE)](https://www.docker.com)
 [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React&logoColor=FFF)](https://react.dev)
-[![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&&logo=Flutter&logoColor=#335899)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&&logo=Dart&logoColor=#335899)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&logoColor=5fc8f7)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&&logo=Dart&logoColor=5fc8f7)](https://dart.dev/)
 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
@@ -38,7 +38,6 @@
 
 [![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&&logo=nextdotjs&logoColor=FFF)](https://nextjs.org)
 [![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
-[![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&logoColor=5fc8f7)](https://flutter.dev/)
 [![Three.js](https://img.shields.io/badge/-Three.js-000?style=for-the-badge&&logo=Three.js&logoColor=FFF)](https://threejs.org/)
 [![Java / Spring Boot](https://img.shields.io/badge/-Spring%20boot-000?style=for-the-badge&&logo=Spring&logoColor=77bc1f)](https://spring.io/)
 
