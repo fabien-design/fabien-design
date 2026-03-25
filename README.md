@@ -40,6 +40,7 @@
 [![Vue.js](https://img.shields.io/badge/-Vuejs-000?style=for-the-badge&&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 [![Three.js](https://img.shields.io/badge/-Three.js-000?style=for-the-badge&&logo=Three.js&logoColor=FFF)](https://threejs.org/)
 [![Java / Spring Boot](https://img.shields.io/badge/-Spring%20boot-000?style=for-the-badge&&logo=Spring&logoColor=77bc1f)](https://spring.io/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&&logo=kotlin)](https://kotlinlang.org/)
 
 ## Azure Machine Learning Modules
 
