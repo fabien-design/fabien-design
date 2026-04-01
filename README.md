@@ -33,6 +33,7 @@
 [![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+[![Squirro](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffabien-design%2FTest_Json%2Frefs%2Fheads%2Fmaster%2Ftest.json&style=for-the-badge&logoColor=%23D34A20&color=%23000)](https://squirro.com/)
 
 ## En apprentissage
 
